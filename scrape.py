@@ -129,7 +129,13 @@ if __name__ == "__main__":
   # Third PART : Combine the data -> store it into a final json file
   # ========================
   # TO DO
-  with open(os.path.join(DATA_DIR, 'list_href_data.json')) as f:
-    json_data = json.load(f)
+  all_data = []
+  for i in range(1, 5):
+    with open(os.path.join(DATA_DIR, f'family_data_P{i}.json')) as f:
+      json_data = json.load(f)
+      all_data.extend(json_data)
+  
+  df = pd.DataFrame(all_data)
+  df.to_json(os.path.join(DATA_DIR, f'final_data.json'), indent=2, orient="records")
 
 
