@@ -8,7 +8,7 @@
         "compound_abbr": null,
         "effect": "Increased formation of hepatotoxic acetaminophen metabolites (in chronic alcoholics)",
         "code": "[NE]",
-        "probability": 0.15262653456243613
+        "probability": 0.5816963385976437
       },
       {
         "compound": "Acitretin",
@@ -22,7 +22,7 @@
         "compound_abbr": null,
         "effect": "Increased hypoprothrombinemic effectwith acute alcohol intoxication",
         "code": "[NE]",
-        "probability": 0.5146964656056221
+        "probability": 0.8579922177750918
       },
       {
         "compound": "Central nervous system depressants",
@@ -36,7 +36,7 @@
         "compound_abbr": null,
         "effect": "Acute alcohol intake may increase hypoglycemic effect ofinsulin (especially in fasting patients)",
         "code": "[NE]",
-        "probability": 0.34629453705198876
+        "probability": 0.19411575111082557
       },
       {
         "compound": "Cephalosporins",
@@ -71,7 +71,7 @@
         "compound_abbr": null,
         "effect": "Chlorpropamide is most likely to produce adisulfiram-like reaction; acute alcohol intake may increase hypoglycemic effect (especially in fasting patients)",
         "code": "[NE]",
-        "probability": 0.7615009981504854
+        "probability": 0.7956519179341812
       }
     ]
   },
@@ -167,7 +167,7 @@
         "compound_abbr": null,
         "effect": "Binds antacid cation in gut,resulting in metabolic alkalosis",
         "code": "[NE]",
-        "probability": 0.08178767019441946
+        "probability": 0.1531811597472732
       },
       {
         "compound": "Tetracyclines",
@@ -194,7 +194,7 @@
         "compound_abbr": null,
         "effect": "Impaired synthesis of clotting factors",
         "code": "[NE]",
-        "probability": 0.8718858626886284
+        "probability": 0.052004155609934544
       },
       {
         "compound": "Amiodarone",
@@ -215,7 +215,7 @@
         "compound_abbr": null,
         "effect": "Decreased dicumarol metabolism (probablyalso warfarin)",
         "code": "[NE]",
-        "probability": 0.5999482187246005
+        "probability": 0.08585090850886024
       },
       {
         "compound": "Cimetidine",
@@ -243,7 +243,7 @@
         "compound_abbr": null,
         "effect": "Impaired synthesis of clotting factors",
         "code": "[NE]",
-        "probability": 0.46103046277772974
+        "probability": 0.5849507970490089
       },
       {
         "compound": "Dextrothyroxine",
@@ -285,7 +285,7 @@
         "compound_abbr": null,
         "effect": "Mechanism not established",
         "code": "[NE]",
-        "probability": 0.46772419446656954
+        "probability": 0.1526877530298304
       },
       {
         "compound": "Lovastatin",
@@ -313,7 +313,7 @@
         "compound_abbr": null,
         "effect": "Probably decreases anticoagulant metabolism",
         "code": "[NE]",
-        "probability": 0.348780207325625
+        "probability": 0.5285704065966549
       },
       {
         "compound": "Quinidine",
@@ -341,14 +341,14 @@
         "compound_abbr": null,
         "effect": "Inhibited warfarin metabolism",
         "code": "[NE]",
-        "probability": 0.5994210542390811
+        "probability": 0.2655425241806345
       },
       {
         "compound": "Sulfonamides",
         "compound_abbr": null,
         "effect": "Inhibited warfarin metabolism",
         "code": "[NE]",
-        "probability": 0.4919014204798573
+        "probability": 0.5423626835394739
       },
       {
         "compound": "Thyroid hormones",
@@ -418,14 +418,14 @@
         "compound_abbr": null,
         "effect": "Enzyme induction",
         "code": "[NE]",
-        "probability": 0.8951828509475009
+        "probability": 0.6547673833881392
       },
       {
         "compound": "Phenytoin",
         "compound_abbr": null,
         "effect": "Enzyme induction; anticoagulant effect may increasetransiently at start of phenytoin therapy due to protein-bindingdisplacement",
         "code": "[NE]",
-        "probability": 0.16228852948426842
+        "probability": 0.7071891497232378
       },
       {
         "compound": "Primidone",
@@ -453,7 +453,7 @@
         "compound_abbr": null,
         "effect": "Enzyme induction",
         "code": "[NE]",
-        "probability": 0.6963604410187556
+        "probability": 0.8254661276448652
       },
       {
         "compound": "Hypoglycemics, oral",
@@ -494,14 +494,14 @@
         "compound_abbr": null,
         "effect": "Decreased antidepressant metabolism",
         "code": "[NE]",
-        "probability": 0.5561677413769921
+        "probability": 0.25534495908854626
       },
       {
         "compound": "Carbamazepine",
         "compound_abbr": null,
         "effect": "Enhanced metabolism of antidepressants",
         "code": "[NE]",
-        "probability": 0.6317824659467371
+        "probability": 0.9577586023552899
       },
       {
         "compound": "Cimetidine",
@@ -550,7 +550,7 @@
         "compound_abbr": null,
         "effect": "Decreased antidepressant metabolism",
         "code": "[NE]",
-        "probability": 0.6937802324995009
+        "probability": 0.49225701120336307
       },
       {
         "compound": "Rifampin",
@@ -633,14 +633,14 @@
         "compound_abbr": null,
         "effect": "Increased plasma concentrations of digoxin withitraconazole, posaconazole, and ketoconazole",
         "code": "[NE]",
-        "probability": 0.01692430028061742
+        "probability": 0.5143065132363669
       },
       {
         "compound": "H2-receptor antagonists",
         "compound_abbr": null,
         "effect": "Decreased absorption of itraconazole,ketoconazole, and posaconazole",
         "code": "[NE]",
-        "probability": 0.4258329265488163
+        "probability": 0.3326370325564384
       },
       {
         "compound": "HMG-CoA reductase inhibitors",
@@ -661,7 +661,7 @@
         "compound_abbr": null,
         "effect": "Decreased pimozide metabolism",
         "code": "[NE]",
-        "probability": 0.5071342623631495
+        "probability": 0.28489065021553495
       },
       {
         "compound": "Proton pump inhibitors",
@@ -723,7 +723,7 @@
         "compound_abbr": null,
         "effect": "Increased cyclosporine metabolism",
         "code": "[NE]",
-        "probability": 0.29310235421145414
+        "probability": 0.5198388483514533
       },
       {
         "compound": "Delavirdine",
@@ -751,7 +751,7 @@
         "compound_abbr": null,
         "effect": "Increased methadone metabolism",
         "code": "[NE]",
-        "probability": 0.31200549621434026
+        "probability": 0.37265311825387326
       },
       {
         "compound": "Phenothiazine",
@@ -765,7 +765,7 @@
         "compound_abbr": null,
         "effect": "Increased protease inhibitor metabolism",
         "code": "[NE]",
-        "probability": 0.13491102205696015
+        "probability": 0.3835804007301219
       },
       {
         "compound": "Quinidine",
@@ -779,21 +779,21 @@
         "compound_abbr": null,
         "effect": "Increased sirolimus metabolism",
         "code": "[NE]",
-        "probability": 0.1962210140958811
+        "probability": 0.24150233112540587
       },
       {
         "compound": "Tacrolimus",
         "compound_abbr": null,
         "effect": "Increased tacrolimus metabolism",
         "code": "[NE]",
-        "probability": 0.7894576040436354
+        "probability": 0.13546307369882693
       },
       {
         "compound": "Theophylline",
         "compound_abbr": null,
         "effect": "Increased theophylline metabolism; reducedtheophylline effect",
         "code": "[NE]",
-        "probability": 0.7673801744293929
+        "probability": 0.4835378404288595
       },
       {
         "compound": "Valproic acid",
@@ -841,7 +841,7 @@
         "compound_abbr": null,
         "effect": "Hypertensive reaction if clonidine is withdrawn whilepatient is taking propranolol",
         "code": "[NE]",
-        "probability": 0.4592762236447322
+        "probability": 0.1759197165065598
       },
       {
         "compound": "Insulin",
@@ -875,14 +875,14 @@
         "compound_abbr": null,
         "effect": "Decreased gastrointestinal absorption ofacetaminophen",
         "code": "[NE]",
-        "probability": 0.5667202927727327
+        "probability": 0.06535476633461579
       },
       {
         "compound": "Digitalis glycosides",
         "compound_abbr": null,
         "effect": "Decreased gastrointestinal absorption ofdigitoxin (possibly also digoxin)",
         "code": "[NE]",
-        "probability": 0.1430951139080856
+        "probability": 0.6639176073807159
       },
       {
         "compound": "Furosemide",
@@ -896,7 +896,7 @@
         "compound_abbr": null,
         "effect": "Reduced gastrointestinal absorption ofmethotrexate",
         "code": "[NE]",
-        "probability": 0.884598485747162
+        "probability": 0.42755383422117466
       },
       {
         "compound": "Mycophenolate",
@@ -930,7 +930,7 @@
         "compound_abbr": null,
         "effect": "Decreased metabolism of calcium channel blockers",
         "code": "[NE]",
-        "probability": 0.3847514705885632
+        "probability": 0.16299925038350638
       },
       {
         "compound": "Carbamazepine",
@@ -958,14 +958,14 @@
         "compound_abbr": null,
         "effect": "Decreased colchicine metabolism and transport withdiltiazem and verapamil",
         "code": "[NE]",
-        "probability": 0.0893901491513136
+        "probability": 0.658748809215665
       },
       {
         "compound": "Conivaptan",
         "compound_abbr": null,
         "effect": "Decreased metabolism of calcium channel blockers",
         "code": "[NE]",
-        "probability": 0.014651170067378483
+        "probability": 0.1787624308495822
       },
       {
         "compound": "Cyclosporine",
@@ -986,7 +986,7 @@
         "compound_abbr": null,
         "effect": "Increased metabolism of calcium channelblockers",
         "code": "[NE]",
-        "probability": 0.9026920849057183
+        "probability": 0.5010615905819035
       },
       {
         "compound": "Rifampin",
@@ -1020,7 +1020,7 @@
         "compound_abbr": null,
         "effect": "Decreased metabolism of carbamazepine",
         "code": "[NE]",
-        "probability": 0.2474849579469216
+        "probability": 0.8077983615253346
       },
       {
         "compound": "Cimetidine",
@@ -1069,14 +1069,14 @@
         "compound_abbr": null,
         "effect": "Decreased carbamazepine metabolism",
         "code": "[NE]",
-        "probability": 0.6784767590733713
+        "probability": 0.2419338172714024
       },
       {
         "compound": "Fluvoxamine",
         "compound_abbr": null,
         "effect": "Decreased carbamazepine metabolism",
         "code": "[NE]",
-        "probability": 0.23321687314899475
+        "probability": 0.6657754363522578
       },
       {
         "compound": "Estrogens",
@@ -1104,7 +1104,7 @@
         "compound_abbr": null,
         "effect": "Decreased carbamazepine metabolism",
         "code": "[NE]",
-        "probability": 0.34373624066769115
+        "probability": 0.5636831869528371
       },
       {
         "compound": "Propoxyphene",
@@ -1125,7 +1125,7 @@
         "compound_abbr": "SSRIs",
         "effect": "Fluoxetine andfluvoxamine decrease carbamazepine metabolism",
         "code": "[NE]",
-        "probability": 0.9225996904077901
+        "probability": 0.9396499104784084
       },
       {
         "compound": "Sirolimus",
@@ -1153,7 +1153,7 @@
         "compound_abbr": null,
         "effect": "Increased theophylline metabolism",
         "code": "[NE]",
-        "probability": 0.4921821671292853
+        "probability": 0.9326561802289678
       }
     ]
   },
@@ -1200,7 +1200,7 @@
         "compound_abbr": null,
         "effect": "Increased bone marrow suppression",
         "code": "[NE]",
-        "probability": 0.20835911558443632
+        "probability": 0.695841112700547
       },
       {
         "compound": "Indinavir",
@@ -1221,7 +1221,7 @@
         "compound_abbr": null,
         "effect": "Decreased phenytoin metabolism; increased serumphenytoin concentrations",
         "code": "[NE]",
-        "probability": 0.45490295611127707
+        "probability": 0.6761936417486569
       },
       {
         "compound": "Procainamide",
@@ -1255,7 +1255,7 @@
         "compound_abbr": null,
         "effect": "Decreased metabolism of cisapride; possibleventricular arrhythmia",
         "code": "[NE]",
-        "probability": 0.7533536758937204
+        "probability": 0.23091463972199777
       },
       {
         "compound": "Clarithromycin",
@@ -1269,7 +1269,7 @@
         "compound_abbr": null,
         "effect": "Decreased metabolism of cisapride; possibleventricular arrhythmia",
         "code": "[NE]",
-        "probability": 0.8884840862803979
+        "probability": 0.3628258002541229
       },
       {
         "compound": "Erythromycin",
@@ -1290,7 +1290,7 @@
         "compound_abbr": null,
         "effect": "Decreased metabolism of cisapride; possible ventriculararrhythmia",
         "code": "[NE]",
-        "probability": 0.26235654723448587
+        "probability": 0.23955454686423494
       },
       {
         "compound": "Selective serotonin reuptake inhibitors",
@@ -1345,7 +1345,7 @@
         "compound_abbr": null,
         "effect": "Decreased colchicine transport",
         "code": "[NE]",
-        "probability": 0.44614914801078287
+        "probability": 0.2965771799718152
       },
       {
         "compound": "Erythromycin",
@@ -1359,7 +1359,7 @@
         "compound_abbr": null,
         "effect": "Decreased colchicine metabolism",
         "code": "[NE]",
-        "probability": 0.141378698700111
+        "probability": 0.7324166875645829
       },
       {
         "compound": "Rifampin",
@@ -1386,14 +1386,14 @@
         "compound_abbr": null,
         "effect": "Possible additive nephrotoxicity",
         "code": "[NE]",
-        "probability": 0.8009145529734192
+        "probability": 0.3547817152036129
       },
       {
         "compound": "Amphotericin B",
         "compound_abbr": null,
         "effect": "Possible additive nephrotoxicity",
         "code": "[NE]",
-        "probability": 0.43128976002414854
+        "probability": 0.24917528559838453
       },
       {
         "compound": "Amprenavir",
@@ -1407,14 +1407,14 @@
         "compound_abbr": null,
         "effect": "Increased serum cyclosporine",
         "code": "[NE]",
-        "probability": 0.1166184505536485
+        "probability": 0.41563603857814835
       },
       {
         "compound": "Atazanavir",
         "compound_abbr": null,
         "effect": "Decreased metabolism of cyclosporine",
         "code": "[NE]",
-        "probability": 0.04110897057621432
+        "probability": 0.4214263944319291
       },
       {
         "compound": "Barbiturates",
@@ -1463,14 +1463,14 @@
         "compound_abbr": null,
         "effect": "Increased cyclosporine metabolism",
         "code": "[NE]",
-        "probability": 0.9996825867799153
+        "probability": 0.1700460450583241
       },
       {
         "compound": "Pimozide",
         "compound_abbr": null,
         "effect": "Decreased pimozide metabolism",
         "code": "[NE]",
-        "probability": 0.722994545408279
+        "probability": 0.9999322820398145
       },
       {
         "compound": "Quinupristin",
@@ -1574,7 +1574,7 @@
         "compound_abbr": null,
         "effect": "Decreased renal digoxin excretion and interfereswith some serum digoxin assays",
         "code": "[NE]",
-        "probability": 0.20051106583030776
+        "probability": 0.2258796317942786
       },
       {
         "compound": "Verapamil",
@@ -1595,14 +1595,14 @@
         "compound_abbr": null,
         "effect": "Increased metabolism of digitoxin and eliminationdigoxin",
         "code": "[NE]",
-        "probability": 0.6328666575322729
+        "probability": 0.4488747739438469
       },
       {
         "compound": "Sulfasalazine",
         "compound_abbr": null,
         "effect": "Decreased gastrointestinal digoxin absorption",
         "code": "[NE]",
-        "probability": 0.684502930866187
+        "probability": 0.6796598917879574
       }
     ]
   },
@@ -1622,7 +1622,7 @@
         "compound_abbr": null,
         "effect": "Confusion and psychoses reported in patientsreceiving this combination; mechanisms unknown",
         "code": "[NE]",
-        "probability": 0.08741916790913906
+        "probability": 0.6982602999391214
       },
       {
         "compound": "Phenytoin",
@@ -1663,7 +1663,7 @@
         "compound_abbr": null,
         "effect": "Possible inhibition of oral contraceptive efficacy;mechanism unknown",
         "code": "[NE]",
-        "probability": 0.2020504108476151
+        "probability": 0.1870922720394239
       },
       {
         "compound": "Phenytoin",
@@ -1698,7 +1698,7 @@
         "compound_abbr": null,
         "effect": "Increased estrogen metabolism; possible reductionin oral contraceptive efficacy",
         "code": "[NE]",
-        "probability": 0.44797215291896375
+        "probability": 0.15600831939419146
       }
     ]
   },
@@ -1753,7 +1753,7 @@
         "compound_abbr": null,
         "effect": "Decreased statin metabolism",
         "code": "[NE]",
-        "probability": 0.3584797046963606
+        "probability": 0.8713285373907984
       },
       {
         "compound": "Erythromycin",
@@ -1774,14 +1774,14 @@
         "compound_abbr": null,
         "effect": "Decreased statin metabolism",
         "code": "[NE]",
-        "probability": 0.1960597249099918
+        "probability": 0.323958842102236
       },
       {
         "compound": "Nefazodone",
         "compound_abbr": null,
         "effect": "Decreased statin metabolism",
         "code": "[NE]",
-        "probability": 0.9354581446059725
+        "probability": 0.5346535816456225
       },
       {
         "compound": "Rifampin",
@@ -1795,7 +1795,7 @@
         "compound_abbr": null,
         "effect": "Decreased statin metabolismSt",
         "code": "[NE]",
-        "probability": 0.00511416139491605
+        "probability": 0.11841398474456832
       },
       {
         "compound": "John's wort",
@@ -1809,7 +1809,7 @@
         "compound_abbr": null,
         "effect": "Decreased statin metabolism",
         "code": "[NE]",
-        "probability": 0.9331756815255413
+        "probability": 0.9057331101612649
       }
     ]
   },
@@ -1822,7 +1822,7 @@
         "compound_abbr": null,
         "effect": "Decreased methyldopa absorption",
         "code": "[NE]",
-        "probability": 0.1978510516485309
+        "probability": 0.360995817314976
       },
       {
         "compound": "Mycophenolate",
@@ -1863,7 +1863,7 @@
         "compound_abbr": null,
         "effect": "Inhibited antiparkinsonism effect",
         "code": "[NE]",
-        "probability": 0.09039893672973598
+        "probability": 0.23765512902947095
       },
       {
         "compound": "Monoamine oxidase inhibitors",
@@ -1877,7 +1877,7 @@
         "compound_abbr": null,
         "effect": "Inhibited antiparkinsonism effect",
         "code": "[NE]",
-        "probability": 0.5269175091497075
+        "probability": 0.9880565669033967
       },
       {
         "compound": "Phenothiazines",
@@ -1891,7 +1891,7 @@
         "compound_abbr": null,
         "effect": "Inhibited antiparkinsonism effect",
         "code": "[NE]",
-        "probability": 0.35911225743463926
+        "probability": 0.604558213717203
       },
       {
         "compound": "Pyridoxine",
@@ -1911,14 +1911,14 @@
         "compound_abbr": null,
         "effect": "Probably reduce renal clearance of lithium;increase lithium effect",
         "code": "[NE]",
-        "probability": 0.752758955738994
+        "probability": 0.6225124456407867
       },
       {
         "compound": "Angiotensin II receptor blockers",
         "compound_abbr": null,
         "effect": "Probably reduce renalclearance of lithium; increase lithium effect",
         "code": "[NE]",
-        "probability": 0.034182729229164655
+        "probability": 0.6812334687295936
       },
       {
         "compound": "Diuretics",
@@ -1939,14 +1939,14 @@
         "compound_abbr": null,
         "effect": "Increased likelihood of central nervous systemlithium toxicity",
         "code": "[NE]",
-        "probability": 0.7552190294243665
+        "probability": 0.1444009050779662
       },
       {
         "compound": "Nonsteroidal anti-inflammatory drugs",
         "compound_abbr": null,
         "effect": "Reduced renallithium excretion (except sulindac and salicylates)",
         "code": "[NE]",
-        "probability": 0.1505351902776313
+        "probability": 0.8504336430302106
       },
       {
         "compound": "Theophylline",
@@ -1966,7 +1966,7 @@
         "compound_abbr": null,
         "effect": "Increased pimozide concentrations",
         "code": "[NE]",
-        "probability": 0.642661354427375
+        "probability": 0.9408192587659413
       },
       {
         "compound": "Quinidine",
@@ -2007,14 +2007,14 @@
         "compound_abbr": null,
         "effect": "Possible serotonin syndrome; avoid concurrent use",
         "code": "[NE]",
-        "probability": 0.9505693842219015
+        "probability": 0.7006710729404109
       },
       {
         "compound": "Dextromethorphan",
         "compound_abbr": null,
         "effect": "Severe reactions (hyperpyrexia, coma,death) have been reported",
         "code": "[NE]",
-        "probability": 0.7300931597088385
+        "probability": 0.6765229709773426
       },
       {
         "compound": "Guanethidine",
@@ -2028,7 +2028,7 @@
         "compound_abbr": null,
         "effect": "Possible serotonin syndrome; avoid concurrent use",
         "code": "[NE]",
-        "probability": 0.31251677532966937
+        "probability": 0.4320413746643287
       },
       {
         "compound": "Narcotic analgesics",
@@ -2042,7 +2042,7 @@
         "compound_abbr": null,
         "effect": "Possible serotonin syndrome; avoid concurrent use",
         "code": "[NE]",
-        "probability": 0.7129677627641675
+        "probability": 0.8153674510285989
       },
       {
         "compound": "Phenylephrine",
@@ -2063,7 +2063,7 @@
         "compound_abbr": null,
         "effect": "Possible serotonin syndrome; avoid concurrent use",
         "code": "[NE]",
-        "probability": 0.3308136842074001
+        "probability": 0.6342755222709047
       },
       {
         "compound": "Sympathomimetics",
@@ -2077,14 +2077,14 @@
         "compound_abbr": null,
         "effect": "Possible serotonin syndrome; avoid concurrent use",
         "code": "[NE]",
-        "probability": 0.5817966271217399
+        "probability": 0.327389288581041
       },
       {
         "compound": "Venlafaxine",
         "compound_abbr": null,
         "effect": "Possible serotonin syndrome; avoid concurrent use",
         "code": "[NE]",
-        "probability": 0.6794771744629099
+        "probability": 0.6319369172539586
       }
     ]
   },
@@ -2118,21 +2118,21 @@
         "compound_abbr": null,
         "effect": "Decreased antihypertensive response tohydralazine",
         "code": "[NE]",
-        "probability": 0.6301643787781319
+        "probability": 0.17086639953412153
       },
       {
         "compound": "Methotrexate",
         "compound_abbr": null,
         "effect": "Possibly increased methotrexate toxicity(especially with anticancer doses of methotrexate)",
         "code": "[NE]",
-        "probability": 0.698476233794332
+        "probability": 0.6340009091793625
       },
       {
         "compound": "Selective serotonin reuptake inhibitors",
         "compound_abbr": "SSRIs",
         "effect": "Increased risk ofbleeding due to platelet inhibition",
         "code": "[NE]",
-        "probability": 0.1680343642922808
+        "probability": 0.742677951328084
       },
       {
         "compound": "Thiazide diuretics",
@@ -2146,7 +2146,7 @@
         "compound_abbr": null,
         "effect": "Decreased renal function noted with triamtereneplus indomethacin in both healthy subjects and patients",
         "code": "[NE]",
-        "probability": 0.10627197770238883
+        "probability": 0.6696686452897945
       }
     ]
   },
@@ -2180,7 +2180,7 @@
         "compound_abbr": null,
         "effect": "Decreased serum mexiletine levels",
         "code": "[NE]",
-        "probability": 0.5754794691427885
+        "probability": 0.15651713800538403
       },
       {
         "compound": "Quinidine",
@@ -2192,9 +2192,9 @@
       {
         "compound": "Theophylline",
         "compound_abbr": null,
-        "effect": "Decreased serum theophylline levelsSee also Calcium channel blockers; Cyclosporine; Estrogens",
+        "effect": "Decreased serum theophylline levels",
         "code": "[NE]",
-        "probability": 0.26359654441849956
+        "probability": 0.5344805930220212
       },
       {
         "compound": "Amiodarone",
@@ -2208,7 +2208,7 @@
         "compound_abbr": null,
         "effect": "Increased serum phenytoin",
         "code": "[NE]",
-        "probability": 0.7454013890095159
+        "probability": 0.9407397275243501
       },
       {
         "compound": "Chloramphenicol",
@@ -2229,14 +2229,14 @@
         "compound_abbr": null,
         "effect": "Increased serum phenytoin",
         "code": "[NE]",
-        "probability": 0.6090453889565317
+        "probability": 0.22486933676687992
       },
       {
         "compound": "Fluvoxamine",
         "compound_abbr": null,
         "effect": "Increased serum phenytoin",
         "code": "[NE]",
-        "probability": 0.006626397009972029
+        "probability": 0.49650627308864437
       },
       {
         "compound": "Isoniazid",
@@ -2284,7 +2284,7 @@
         "compound_abbr": null,
         "effect": "Decreased pimozide metabolism",
         "code": "[NE]",
-        "probability": 0.6302599940938669
+        "probability": 0.5978367133685566
       }
     ]
   },
@@ -2386,7 +2386,7 @@
         "compound_abbr": null,
         "effect": "Decreased gastrointestinal absorption ofquinidine",
         "code": "[NE]",
-        "probability": 0.9121169823074232
+        "probability": 0.16696564634273114
       },
       {
         "compound": "Rifampin",
@@ -2400,7 +2400,7 @@
         "compound_abbr": null,
         "effect": "Decreased thioridazine metabolism; additiveprolongation of QTc interval",
         "code": "[NE]",
-        "probability": 0.7227430696416466
+        "probability": 0.3067723270058057
       }
     ]
   },
@@ -2447,7 +2447,7 @@
         "compound_abbr": null,
         "effect": "Increased mexiletine metabolism; reducedmexiletine effect",
         "code": "[NE]",
-        "probability": 0.6595223582167408
+        "probability": 0.1300801273738541
       },
       {
         "compound": "Sulfonylurea hypoglycemics",
@@ -2474,7 +2474,7 @@
         "compound_abbr": null,
         "effect": "Increased acetazolamide serumconcentrations; increase salicylate toxicity due to decreased blood pH",
         "code": "[NE]",
-        "probability": 0.5393349438558702
+        "probability": 0.13451346554761012
       },
       {
         "compound": "Corticosteroids",
@@ -2488,7 +2488,7 @@
         "compound_abbr": null,
         "effect": "Increased bleeding tendency with aspirin, but probablynot with other salicylates",
         "code": "[NE]",
-        "probability": 0.1555068135638309
+        "probability": 0.21032126945032936
       },
       {
         "compound": "Methotrexate",
@@ -2528,7 +2528,7 @@
         "compound_abbr": null,
         "effect": "Inhibition of benzodiazepine sedation",
         "code": "[NE]",
-        "probability": 0.9384372851580952
+        "probability": 0.48911035918499657
       },
       {
         "compound": "Beta-adrenoceptor blockers",
@@ -2563,7 +2563,7 @@
         "compound_abbr": null,
         "effect": "Decreased theophylline metabolism",
         "code": "[NE]",
-        "probability": 0.9538586487744943
+        "probability": 0.5012763421159979
       },
       {
         "compound": "Verapamil",
