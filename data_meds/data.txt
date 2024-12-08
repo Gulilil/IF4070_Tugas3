@@ -1,0 +1,629 @@
+Alcohol 
+
+Acetaminophen: [NE] Increased formation of hepatotoxic acetaminophen metabolites (in chronic alcoholics).
+Acitretin: [P] Increased conversion of acitretin to etretinate
+(teratogenic).
+Anticoagulants, oral: [NE] Increased hypoprothrombinemic effect
+with acute alcohol intoxication.
+Central nervous system depressants: [HP] Additive or synergistic
+central nervous system depression.
+Insulin: [NE] Acute alcohol intake may increase hypoglycemic effect of
+insulin (especially in fasting patients).
+Cephalosporins: [NP] Disulfiram-like reactions are noted with
+cefamandole, cefoperazone, cefotetan, and moxalactam.
+Chloral hydrate: [NP] Mechanism not established.
+Disulfiram: [HP] Inhibited aldehyde dehydrogenase.
+Metronidazole: [NP] Mechanism not established.
+Sulfonylureas: [NE] Chlorpropamide is most likely to produce a
+disulfiram-like reaction; acute alcohol intake may increase hypoglycemic effect (especially in fasting patients).
+
+Allopurinol 
+
+Anticoagulants, oral: [NP] Increased hypoprothrombinemic
+effect.
+Azathioprine: [P] Decreased azathioprine detoxification resulting in
+increased azathioprine toxicity.
+Mercaptopurine: [P] Decreased mercaptopurine metabolism
+resulting in increased mercaptopurine toxicity.
+
+Antacids
+
+Atazanavir: [NP] Decreased absorption of atazanavir (requires acid for
+absorption).
+Digoxin: [NP] Decreased gastrointestinal absorption of digoxin.
+Indinavir: [NP] Decreased absorption of indinavir (requires acid for
+absorption).
+Iron: [P] Decreased gastrointestinal absorption of iron with
+calcium-containing antacids.
+Itraconazole: [P] Reduced gastrointestinal absorption of
+itraconazole due to increased pH (itraconazole requires acid for
+dissolution).
+Ketoconazole: [P] Reduced gastrointestinal absorption of ketoconazole due to increased pH (ketoconazole requires acid for dissolution).
+Quinolones: [HP] Decreased gastrointestinal absorption of
+ciprofloxacin, norfloxacin, and enoxacin (and probably other
+quinolones).
+Salicylates: [P] Increased renal clearance of salicylates due to
+increased urine pH; occurs only with large doses of salicylates.
+Sodium polystyrene sulfonate: [NE] Binds antacid cation in gut,
+resulting in metabolic alkalosis.
+Tetracyclines: [HP] Decreased gastrointestinal absorption of
+tetracyclines.
+Thyroxine: [NP] Reduced gastrointestinal absorption of thyroxine.
+
+Anticoagulants, oral 
+
+Acetaminophen: [NE] Impaired synthesis of clotting factors.
+Amiodarone: [P] Inhibited anticoagulant metabolism.
+Anabolic steroids: [P] Altered clotting factor disposition?
+Chloramphenicol: [NE] Decreased dicumarol metabolism (probably
+also warfarin).
+Cimetidine: [HP] Decreased warfarin metabolism.
+Clofibrate: [P] Mechanism not established.
+Clopidogrel: [NP] Decreased warfarin metabolism and inhibits
+platelet function.
+Danazol: [NE] Impaired synthesis of clotting factors?
+Dextrothyroxine: [P] Enhanced clotting factor catabolism?
+Disulfiram: [P] Decreased warfarin metabolism.
+Erythromycin: [NP] Probably inhibits anticoagulant metabolism.
+Fluconazole: [P] Decreased warfarin metabolism.
+Fluoxetine: [P] Decreased warfarin metabolism.
+Gemfibrozil: [NE] Mechanism not established.
+Lovastatin: [NP] Decreased warfarin metabolism.
+Metronidazole: [P] Decreased warfarin metabolism.
+Nonsteroidal anti-inflammatory drugs: [P] Inhibition of platelet
+function, gastric erosions; some agents increase hypoprothrombinemic response (unlikely with diclofenac, ibuprofen, or naproxen).
+Propafenone: [NE] Probably decreases anticoagulant metabolism.
+Quinidine: [NP] Additive hypoprothrombinemia.
+Salicylates: [HP] Platelet inhibition with aspirin but not with other
+salicylates; [P] large doses have hypoprothrombinemic effect.
+Simvastatin: [NP] Decreased warfarin metabolism.
+Sulfinpyrazone: [NE] Inhibited warfarin metabolism.
+Sulfonamides: [NE] Inhibited warfarin metabolism.
+Thyroid hormones: [P] Enhanced clotting factor catabolism.
+Trimethoprim-sulfamethoxazole: [P] Inhibited warfarin metabolism;
+displaces from protein binding.
+Voriconazole: [NP] Decreased warfarin metabolism.
+Aminoglutethimide: [P] Enzyme induction.
+Barbiturates: [P] Enzyme induction.
+Bosentan: [P] Enzyme induction.
+Carbamazepine: [P] Enzyme induction.
+Cholestyramine: [P] Reduced absorption of anticoagulant.
+Glutethimide: [P] Enzyme induction.
+Nafcillin: [NE] Enzyme induction.
+Phenytoin: [NE] Enzyme induction; anticoagulant effect may increase
+transiently at start of phenytoin therapy due to protein-binding
+displacement.
+Primidone: [P] Enzyme induction.
+Rifabutin: [P] Enzyme induction.
+Rifampin: [P] Enzyme induction.
+St. John's wort: [NE] Enzyme induction.
+Hypoglycemics, oral: [P] Dicumarol inhibits hepatic metabolism of
+tolbutamide and chlorpropamide.
+Phenytoin: [P] Dicumarol inhibits metabolism of phenytoin.
+
+Antidepressants,
+tricyclic and
+heterocyclic
+
+Amiodarone: [P] Decreased antidepressant metabolism.
+Barbiturates: [P] Increased antidepressant metabolism.
+Bupropion: [NE] Decreased antidepressant metabolism.
+Carbamazepine: [NE] Enhanced metabolism of antidepressants.
+Cimetidine: [P] Decreased antidepressant metabolism.
+Clonidine: [P] Decreased clonidine antihypertensive effect.
+Guanadrel: [P] Decreased uptake of guanadrel into sites of action.
+Guanethidine: [P] Decreased uptake of guanethidine into sites of
+action.
+Haloperidol: [P] Decreased antidepressant metabolism.
+Monoamine oxidase inhibitors: [NP] Some cases of excitation,
+hyperpyrexia, mania, and convulsions, especially with serotonergic
+antidepressants such as clomipramine and imipramine, but many
+patients have received combination without ill effects.
+Quinidine: [NE] Decreased antidepressant metabolism.
+Rifampin: [P] Increased antidepressant metabolism.
+Selective serotonin reuptake inhibitors (SSRIs): [P] Fluoxetine and
+paroxetine inhibit CYP2D6 and decrease metabolism of antidepressants
+metabolized by this enzyme (eg, desipramine). Citalopram, sertraline,
+and fluvoxamine are only weak inhibitors of CYP2D6, but fluvoxamine
+inhibits CYP1A2 and CYP3A4 and thus can inhibit the metabolism of
+antidepressants metabolized by these enzymes.
+Sympathomimetics: [P] Increased pressor response to norepinephrine, epinephrine, and phenylephrine.
+Terbinafine: [P] Decreased antidepressant metabolism.
+
+Azole antifungals
+
+Barbiturates: [P] Increased metabolism of itraconazole, ketoconazole,
+voriconazole.
+Calcium channel blockers: [P] Decreased calcium channel blocker
+metabolism.
+Carbamazepine: [P] Decreased carbamazepine metabolism. Potential
+increased metabolism of azole antifungal.
+Cisapride: [NP] Decreased metabolism of cisapride; possible
+ventricular arrhythmias.
+Colchicine: [P] Decreased metabolism and transport of colchicine.
+Cyclosporine: [P] Decreased metabolism of cyclosporine.
+Digoxin: [NE] Increased plasma concentrations of digoxin with
+itraconazole, posaconazole, and ketoconazole.
+H2-receptor antagonists: [NE] Decreased absorption of itraconazole,
+ketoconazole, and posaconazole.
+HMG-CoA reductase inhibitors: [HP] Decreased metabolism of
+lovastatin, simvastatin, and, to a lesser extent, atorvastatin.
+Phenytoin: [P] Decreased metabolism of phenytoin with fluconazole
+and probably voriconazole.
+Pimozide: [NE] Decreased pimozide metabolism.
+Proton pump inhibitors: [P] Decreased absorption of itraconazole,
+ketoconazole, and posaconazole.
+Rifabutin: [P] Decreased rifabutin metabolism. Increased metabolism
+of itraconazole, ketoconazole, and voriconazole.
+Rifampin: [P] Increased metabolism of itraconazole, ketoconazole,
+and voriconazole.
+
+Barbiturates 
+
+Beta-adrenoceptor blockers: [P] Increased β-blocker metabolism.
+Calcium channel blockers: [P] Increased calcium channel blocker
+metabolism.
+Central nervous system depressants: [HP] Additive central nervous
+system depression.
+Corticosteroids: [P] Increased corticosteroid metabolism.
+Cyclosporine: [NE] Increased cyclosporine metabolism.
+Delavirdine: [P] Increased delavirdine metabolism.
+Doxycycline: [P] Increased doxycycline metabolism.
+Estrogens: [P] Increased estrogen metabolism.
+Methadone: [NE] Increased methadone metabolism.
+Phenothiazine: [P] Increased phenothiazine metabolism.
+Protease inhibitors: [NE] Increased protease inhibitor metabolism.
+Quinidine: [P] Increased quinidine metabolism.
+Sirolimus: [NE] Increased sirolimus metabolism.
+Tacrolimus: [NE] Increased tacrolimus metabolism.
+Theophylline: [NE] Increased theophylline metabolism; reduced
+theophylline effect.
+Valproic acid: [P] Decreased phenobarbital metabolism.
+
+Beta-adrenoceptor
+blockers
+
+Cimetidine: [P] Decreased metabolism of β blockers that are cleared
+primarily by the liver, eg, propranolol. Less effect (if any) on those
+cleared by the kidneys, eg, atenolol, nadolol.
+Selective serotonin reuptake inhibitors (SSRIs): [P] Fluoxetine and
+paroxetine inhibit CYP2D6 and increase concentrations of timolol,
+propranolol, metoprolol, carvedilol, and labetalol.
+Enzyme inducers: [P] Barbiturates, phenytoin, and rifampin may
+enhance β-blocker metabolism; other enzyme inducers may produce
+similar effects.
+Nonsteroidal anti-inflammatory drugs: [P] Indomethacin reduces
+antihypertensive response; other prostaglandin inhibitors probably
+also interact.
+Clonidine: [NE] Hypertensive reaction if clonidine is withdrawn while
+patient is taking propranolol.
+Insulin: [P] Inhibition of glucose recovery from hypoglycemia; inhibition of symptoms of hypoglycemia (except sweating); increased blood
+pressure during hypoglycemia.
+Prazosin: [P] Increased hypotensive response to first dose of prazosin.
+Sympathomimetics: [P] Increased pressor response to epinephrine
+(and possibly other sympathomimetics); this is more likely to occur
+with nonselective β blockers.
+
+Bile acid–binding resins 
+
+Acetaminophen: [NE] Decreased gastrointestinal absorption of
+acetaminophen.
+Digitalis glycosides: [NE] Decreased gastrointestinal absorption of
+digitoxin (possibly also digoxin).
+Furosemide: [P] Decreased gastrointestinal absorption of furosemide.
+Methotrexate: [NE] Reduced gastrointestinal absorption of
+methotrexate.
+Mycophenolate: [P] Reduced gastrointestinal absorption of
+mycophenolate.
+Thiazide diuretics: [P] Reduced gastrointestinal absorption of thiazides.
+Thyroid hormones: [P] Reduced thyroid absorption.
+
+Calcium channel
+blockers
+
+Atazanavir: [NE] Decreased metabolism of calcium channel blockers.
+Carbamazepine: [P] Decreased carbamazepine metabolism with
+diltiazem and verapamil; possible increase in calcium channel blocker
+metabolism.
+Cimetidine: [NP] Decreased metabolism of calcium channel blockers.
+Clarithromycin: [P] Decreased metabolism of calcium channel
+blockers.
+Colchicine: [NE] Decreased colchicine metabolism and transport with
+diltiazem and verapamil.
+Conivaptan: [NE] Decreased metabolism of calcium channel blockers.
+Cyclosporine: [P] Decreased cyclosporine metabolism with diltiazem,
+nicardipine, verapamil.
+Erythromycin: [P] Decreased metabolism of calcium channel
+blockers. Phenytoin: [NE] Increased metabolism of calcium channel
+blockers.
+Rifampin: [P] Increased metabolism of calcium channel blockers.
+Sirolimus: [P] Decreased sirolimus metabolism with diltiazem,
+nicardipine, verapamil.
+Tacrolimus: [P] Decreased tacrolimus metabolism with diltiazem,
+nicardipine, verapamil.
+
+Carbamazepine 
+
+Atazanavir: [NE] Decreased metabolism of carbamazepine.
+Cimetidine: [P] Decreased carbamazepine metabolism.
+Clarithromycin: [P] Decreased carbamazepine metabolism.
+Corticosteroids: [P] Increased corticosteroid metabolism.
+Cyclosporine: [P] Increased cyclosporine metabolism and possible
+decreased carbamazepine metabolism.
+Danazol: [P] Decreased carbamazepine metabolism.
+Doxycycline: [P] Increased doxycycline metabolism.
+Erythromycin: [NE] Decreased carbamazepine metabolism.
+Fluvoxamine: [NE] Decreased carbamazepine metabolism.
+Estrogens: [P] Increased estrogen metabolism.
+Haloperidol: [P] Increased haloperidol metabolism.
+Isoniazid: [P] Decreased carbamazepine metabolism.
+Nefazodone: [NE] Decreased carbamazepine metabolism.
+Propoxyphene: [HP] Decreased carbamazepine metabolism and
+possible increased propoxyphene metabolism.
+Rifampin: [P] Increased carbamazepine metabolism.
+Selective serotonin reuptake inhibitors (SSRIs): [NE] Fluoxetine and
+fluvoxamine decrease carbamazepine metabolism.
+Sirolimus: [P] Increased sirolimus metabolism.
+St. John's wort: [P] Increased carbamazepine metabolism.
+Tacrolimus: [P] Increased tacrolimus metabolism.
+Theophylline: [NE] Increased theophylline metabolism.
+
+Chloramphenicol 
+
+Phenytoin: [P] Decreased phenytoin metabolism.
+Sulfonylurea hypoglycemics: [P] Decreased sulfonylurea metabolism.
+
+Cimetidine 
+
+Atazanavir: [NP] Decreased absorption of atazanavir (requires acid for
+absorption; other H2 blockers and proton pump inhibitors would be
+expected to have the same effect).
+Benzodiazepines: [P] Decreased metabolism of alprazolam,
+chlordiazepoxide, diazepam, halazepam, prazepam, and clorazepate
+but not oxazepam, lorazepam, or temazepam.
+Carmustine: [NE] Increased bone marrow suppression.
+Indinavir: [NP] Decreased absorption of indinavir (requires acid for
+absorption; other H2 blockers and proton pump inhibitors would be
+expected to have the same effect).
+Lidocaine: [P] Decreased metabolism of lidocaine; increased serum
+lidocaine concentrations.
+Phenytoin: [NE] Decreased phenytoin metabolism; increased serum
+phenytoin concentrations.
+Procainamide: [P] Decreased renal excretion of procainamide;
+increased serum procainamide concentrations.
+Quinidine: [P] Decreased metabolism of quinidine; increased serum
+quinidine concentrations.
+Theophylline: [P] Decreased theophylline metabolism; increased
+plasma theophylline concentrations.
+
+Cisapride 
+
+Atazanavir: [NE] Decreased metabolism of cisapride; possible
+ventricular arrhythmia.
+Clarithromycin: [NP] Decreased metabolism of cisapride; possible
+ventricular arrhythmia.
+Cyclosporine: [NE] Decreased metabolism of cisapride; possible
+ventricular arrhythmia.
+Erythromycin: [NP] Decreased metabolism of cisapride; possible
+ventricular arrhythmia.
+Nefazodone: [NP] Possibly decreased metabolism of cisapride by
+CYP3A4; possible ventricular arrhythmia.
+Ritonavir: [NE] Decreased metabolism of cisapride; possible ventricular
+arrhythmia.
+Selective serotonin reuptake inhibitors (SSRIs): [NP] Fluvoxamine
+inhibits CYP3A4 and probably decreases cisapride metabolism; possible
+ventricular arrhythmia.
+
+Colchicine 
+
+Amiodarone: [NP] Decreased colchicine metabolism and transport.
+Amprenavir: [P] Decreased colchicine metabolism.
+Carbamazepine: [P] Increased metabolism of colchicine.
+Clarithromycin: [P] Decreased colchicine metabolism and transport.
+Cyclosporine: [P] Decreased colchicine metabolism and transport.
+Dronedarone: [NE] Decreased colchicine transport.
+Erythromycin: [P] Decreased colchicine metabolism and transport.
+Nefazodone: [NE] Decreased colchicine metabolism.
+Rifampin: [P] Increased colchicine metabolism.
+Ritonavir: [P] Decreased colchicine metabolism.
+
+Cyclosporine 
+
+Aminoglycosides: [NE] Possible additive nephrotoxicity.
+Amphotericin B: [NE] Possible additive nephrotoxicity.
+Amprenavir: [P] Increased cyclosporine metabolism.
+Androgens: [NE] Increased serum cyclosporine.
+Atazanavir: [NE] Decreased metabolism of cyclosporine.
+Barbiturates: [P] Increased cyclosporine metabolism.
+Carbamazepine: [P] Increased cyclosporine metabolism.
+Clarithromycin: [P] Decreased cyclosporine metabolism.
+Erythromycin: [NP] Decreased cyclosporine metabolism.
+Lovastatin: [NP] Decreased metabolism of lovastatin. Myopathy and
+rhabdomyolysis noted in patients taking lovastatin and cyclosporine.
+Nefazodone: [P] Decreased cyclosporine metabolism.
+Phenytoin: [NE] Increased cyclosporine metabolism.
+Pimozide: [NE] Decreased pimozide metabolism.
+Quinupristin: [P] Increased cyclosporine metabolism.
+Rifampin: [P] Increased cyclosporine metabolism.
+Ritonavir: [P] Decreased cyclosporine metabolism.
+Simvastatin: [NP] Decreased metabolism of simvastatin. Myopathy
+and rhabdomyolysis noted in patients taking simvastatin and
+cyclosporine.
+St. John's wort: [NP] Increased cyclosporine metabolism.
+
+Digitalis glycosides
+
+Amiodarone: [P] Increased plasma digoxin concentrations.
+Azithromycin: [NP] Increased plasma concentration of digoxin.
+Clarithromycin: [P] Increased plasma concentration of digoxin.
+Diltiazem: [P] Increased plasma digoxin and additive AV conduction
+effects.
+Erythromycin: [NP] Increased plasma concentration of digoxin.
+Potassium-depleting drugs: [P] Increases likelihood of digitalis
+toxicity.
+Propafenone: [P] Increases plasma digoxin levels.
+Quinidine: [HP] Increased digoxin plasma concentrations; displaces
+digoxin from tissue binding sites.
+Spironolactone: [NE] Decreased renal digoxin excretion and interferes
+with some serum digoxin assays.
+Verapamil: [P] Increased plasma digoxin levels and additive AV
+conduction effects.
+Kaolin-pectin: [P] Decreased gastrointestinal digoxin absorption.
+Rifampin: [NE] Increased metabolism of digitoxin and elimination
+digoxin.
+Sulfasalazine: [NE] Decreased gastrointestinal digoxin absorption
+
+Disulfiram 
+
+Benzodiazepines: [P] Decreased metabolism of chlordiazepoxide and
+diazepam but not lorazepam and oxazepam.
+Metronidazole: [NE] Confusion and psychoses reported in patients
+receiving this combination; mechanisms unknown.
+Phenytoin: [P] Decreased phenytoin metabolism.
+
+Estrogens 
+
+Ampicillin: [NP] Interruption of enterohepatic circulation of estrogen;
+possible reduction in oral contraceptive efficacy. Some other oral
+antibiotics may have a similar effect.
+Bosentan: [NP] Enzyme induction leading to reduced estrogen effect.
+Corticosteroids: [P] Decreased metabolism of corticosteroids
+leading to increased corticosteroid effect.
+Griseofulvin: [NE] Possible inhibition of oral contraceptive efficacy;
+mechanism unknown.
+Phenytoin: [NP] Increased estrogen metabolism; possible reduction
+in oral contraceptive efficacy.
+Primidone: [NP] Increased estrogen metabolism; possible reduction
+in oral contraceptive efficacy.
+Rifabutin: [NP] Increased estrogen metabolism; possible reduction in
+oral contraceptive efficacy.
+Rifampin: [NP] Increased estrogen metabolism; possible reduction in
+oral contraceptive efficacy.
+St. John's wort: [NE] Increased estrogen metabolism; possible reduction
+in oral contraceptive efficacy.
+
+HMG-CoA reductase
+inhibitors
+
+Amiodarone: [NP] Decreased statin metabolism.
+Atazanavir: [NP] Decreased statin metabolism.
+Carbamazepine: [P] Increased statin metabolism.
+Clarithromycin: [P] Decreased statin metabolism.
+Clofibrate: [NP] Increased risk of myopathy.
+Cyclosporine: [P] Decreased statin metabolism.
+Diltiazem: [NE] Decreased statin metabolism.
+Erythromycin: [P] Decreased statin metabolism.
+Gemfibrozil: [NP] Increased plasma lovastatin and simvastatin and
+increase the risk of myopathy.
+Indinavir: [NE] Decreased statin metabolism.
+Nefazodone: [NE] Decreased statin metabolism.
+Rifampin: [P] Increased statin metabolism.
+Ritonavir: [NE] Decreased statin metabolism.
+St. John's wort: [NP] Increased statin metabolism.
+Verapamil: [NE] Decreased statin metabolism.
+
+Iron
+
+Methyldopa: [NE] Decreased methyldopa absorption.
+Mycophenolate: [P] Decreased absorption of mycophenolate.
+Quinolones: [P] Decreased absorption of ciprofloxacin and other
+quinolones.
+Tetracyclines: [P] Decreased absorption of tetracyclines; decreased
+efficacy of iron.
+Thyroid hormones: [P] Decreased thyroxine absorption.
+
+Levodopa
+
+Clonidine: [NE] Inhibited antiparkinsonism effect.
+Monoamine oxidase inhibitors: [P] Hypertensive reaction (carbidopa
+prevents the interaction).
+Papaverine: [NE] Inhibited antiparkinsonism effect.
+Phenothiazines: [P] Inhibited antiparkinsonism effect.
+Phenytoin: [NE] Inhibited antiparkinsonism effect.
+Pyridoxine: [P] Inhibited antiparkinsonism effect (carbidopa
+prevents the interaction).
+
+Lithium 
+
+ACE inhibitors: [NE] Probably reduce renal clearance of lithium;
+increase lithium effect.
+Angiotensin II receptor blockers: [NE] Probably reduce renal
+clearance of lithium; increase lithium effect.
+Diuretics (especially thiazides): [P] Decreased excretion of lithium;
+furosemide may be less likely to produce this effect than thiazide
+diuretics.
+Haloperidol: [NP] Occasional cases of neurotoxicity in manic patients,
+especially with large doses of one or both drugs.
+Methyldopa: [NE] Increased likelihood of central nervous system
+lithium toxicity.
+Nonsteroidal anti-inflammatory drugs: [NE] Reduced renal
+lithium excretion (except sulindac and salicylates).
+Theophylline: [P] Increased renal excretion of lithium; reduced
+lithium effect.
+
+Macrolides 
+
+Pimozide: [NE] Increased pimozide concentrations.
+Quinidine: [P] Increased serum quinidine concentrations.
+Theophylline: [P] Decreased metabolism of theophylline.
+
+Monoamine oxidase
+inhibitors (MAOIs)
+
+Anorexiants: [P] Hypertensive episodes due to release of stored
+norepinephrine (benzphetamine, diethylpropion, mazindol,
+phendimetrazine, phentermine).
+Antidiabetic agents: [P] Additive hypoglycemic effect.
+Buspirone: [NE] Possible serotonin syndrome; avoid concurrent use.
+Dextromethorphan: [NE] Severe reactions (hyperpyrexia, coma,
+death) have been reported.
+Guanethidine: [P] Reversal of the hypotensive action of
+guanethidine.
+Mirtazapine: [NE] Possible serotonin syndrome; avoid concurrent use.
+Narcotic analgesics: [NP] Some patients develop hypertension,
+rigidity, excitation; meperidine may be more likely to interact than
+morphine.
+Nefazodone: [NE] Possible serotonin syndrome; avoid concurrent use.
+Phenylephrine: [P] Hypertensive episode, since phenylephrine is
+metabolized by monoamine oxidase.
+Selective serotonin reuptake inhibitors (SSRIs): [P] Fatalities have
+occurred due to serotonin syndrome; contraindicated in patients
+taking MAOIs.
+Sibutramine: [NE] Possible serotonin syndrome; avoid concurrent use.
+Sympathomimetics (indirect-acting): [HP] Hypertensive episode
+due to release of stored norepinephrine (amphetamines, ephedrine,
+isometheptene, phenylpropanolamine, pseudoephedrine).
+Tramadol: [NE] Possible serotonin syndrome; avoid concurrent use.
+Venlafaxine: [NE] Possible serotonin syndrome; avoid concurrent use.
+
+Nonsteroidal antiinflammatory drugs
+(NSAIDs)
+
+ACE inhibitors: [P] Decreased antihypertensive response.
+Angiotensin II receptor blockers: [P] Decreased antihypertensive
+response.
+Furosemide: [P] Decreased diuretic, natriuretic, and antihypertensive
+response to furosemide.
+Hydralazine: [NE] Decreased antihypertensive response to
+hydralazine.
+Methotrexate: [NE] Possibly increased methotrexate toxicity
+(especially with anticancer doses of methotrexate).
+Selective serotonin reuptake inhibitors (SSRIs): [NE] Increased risk of
+bleeding due to platelet inhibition.
+Thiazide diuretics: [P] Decreased diuretic, natriuretic, and
+antihypertensive response.
+Triamterene: [NE] Decreased renal function noted with triamterene
+plus indomethacin in both healthy subjects and patients.
+
+Phenytoin 
+
+Corticosteroids: [P] Decreased serum corticosteroid levels.
+Doxycycline: [P] Decreased serum doxycycline levels.
+Methadone: [P] Decreased serum methadone levels; watch for
+withdrawal symptoms.
+Mexiletine: [NE] Decreased serum mexiletine levels.
+Quinidine: [P] Decreased serum quinidine levels.
+Theophylline: [NE] Decreased serum theophylline levels.
+Amiodarone: [P] Increased serum phenytoin; possible reduction in
+serum amiodarone.
+Capecitabine: [NE] Increased serum phenytoin.
+Chloramphenicol: [P] Increased serum phenytoin.
+Felbamate: [P] Increased serum phenytoin.
+Fluorouracil: [NE] Increased serum phenytoin.
+Fluvoxamine: [NE] Increased serum phenytoin.
+Isoniazid: [NP] Increased serum phenytoin; problem primarily with
+slow acetylators of isoniazid.
+Metronidazole: [NP] Increased serum phenytoin.
+Ticlopidine: [NP] Increased serum phenytoin.
+Carbamazepine: [P] Decreased serum phenytoin levels.
+Rifampin: [P] Decreased serum phenytoin levels.
+
+Pimozide 
+
+Nefazodone: [NE] Decreased pimozide metabolism.
+
+Potassium-sparing
+diuretics (amiloride,
+eplerenone,
+spironolactone,
+triamterene)
+
+ACE inhibitors: [NP] Additive hyperkalemic effect.
+Angiotensin II receptor blockers: [NP] Additive hyperkalemic effect.
+Potassium-sparing diuretics: [P] Additive hyperkalemic effect.
+Potassium supplements: [P] Additive hyperkalemic effect; especially a
+problem in presence of renal impairment.
+
+Probenecid 
+
+Clofibrate: [P] Reduced glucuronide conjugation of clofibric acid.
+Methotrexate: [P] Decreased renal methotrexate excretion; possible
+methotrexate toxicity.
+Palatrexate: [P] Decreased renal palatrexate excretion; possible
+palatrexate toxicity.
+Penicillin: [P] Decreased renal penicillin excretion.
+Salicylates: [P] Decreased uricosuric effect of probenecid (interaction
+unlikely with less than 1.5 g of salicylate daily).
+
+Quinidine 
+
+Acetazolamide: [P] Decreased renal quinidine excretion due to
+increased urinary pH; elevated serum quinidine.
+Amiodarone: [NP] Increased serum quinidine levels.
+Kaolin-pectin: [NE] Decreased gastrointestinal absorption of
+quinidine.
+Rifampin: [P] Increased hepatic quinidine metabolism.
+Thioridazine: [NE] Decreased thioridazine metabolism; additive
+prolongation of QTc interval.
+
+Quinolone antibiotics 
+
+Caffeine: [P] Ciprofloxacin, enoxacin, pipedemic acid, and, to a lesser
+extent, norfloxacin inhibit caffeine metabolism.
+Sucralfate: [HP] Reduced gastrointestinal absorption of ciprofloxacin,
+norfloxacin, and probably other quinolones.
+Theophylline: [P] Ciprofloxacin, enoxacin, and, to a lesser extent,
+norfloxacin inhibit theophylline metabolism; gatifloxacin, levofloxacin,
+lomefloxacin, ofloxacin, and sparfloxacin appear to have little effect.
+
+Rifampin
+
+Corticosteroids: [P] Increased corticosteroid hepatic metabolism;
+reduced corticosteroid effect.
+Mexiletine: [NE] Increased mexiletine metabolism; reduced
+mexiletine effect.
+Sulfonylurea hypoglycemics: [P] Increased hepatic metabolism of
+tolbutamide and probably other sulfonylureas metabolized by the
+liver (including chlorpropamide).
+Theophylline: [P] Increased theophylline metabolism; reduced
+theophylline effect.
+
+Salicylates
+
+Carbonic anhydrase inhibitors: [NE] Increased acetazolamide serum
+concentrations; increase salicylate toxicity due to decreased blood pH.
+Corticosteroids: [P] Increased salicylate elimination; possible additive
+toxic effect on gastric mucosa.
+Heparin: [NE] Increased bleeding tendency with aspirin, but probably
+not with other salicylates.
+Methotrexate: [P] Decreased renal methotrexate clearance; increases
+methotrexate toxicity (primarily at anticancer doses).
+Sulfinpyrazone: [HP] Decreased uricosuric effect of sulfinpyrazone
+(interaction unlikely with less than 1.5 g of salicylate daily).
+
+Selective serotonin
+reuptake inhibitors
+
+Theophylline: [P] Decreased metabolism by fluvoxamine-induced
+inhibition of CYP.
+
+Theophylline
+
+Benzodiazepines: [NE] Inhibition of benzodiazepine sedation.
+Beta-adrenoceptor blockers: [NP] Decreased theophylline bronchodilation especially with nonselective β blockers.
+Diltiazem: [NP] Decreased theophylline metabolism.
+Smoking: [HP] Increased theophylline metabolism.
+Tacrine: [NP] Decreased theophylline metabolism.
+Ticlopidine: [NE] Decreased theophylline metabolism.
+Verapamil: [NP] Decreased theophylline metabolism.
+Zileuton: [NP] Decreased theophylline metabolism.
