@@ -18,7 +18,7 @@
         "probability": 0.7
       },
       {
-        "compound": "Anticoagulants, oral",
+        "compound": "Anticoagulants",
         "compound_abbr": null,
         "effect": "Increased hypoprothrombinemic effectwith acute alcohol intoxication",
         "code": "[NE]",
@@ -80,7 +80,7 @@
     "compound_abbr": null,
     "content": [
       {
-        "compound": "Anticoagulants, oral",
+        "compound": "Anticoagulants",
         "compound_abbr": null,
         "effect": "Increased hypoprothrombinemiceffect",
         "code": "[NP]",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "compound": "Anticoagulants, oral",
+    "compound": "Anticoagulants",
     "compound_abbr": null,
     "content": [
       {
@@ -456,7 +456,7 @@
         "probability": 0.8254661276448652
       },
       {
-        "compound": "Hypoglycemics, oral",
+        "compound": "Hypoglycemics",
         "compound_abbr": null,
         "effect": "Dicumarol inhibits hepatic metabolism oftolbutamide and chlorpropamide",
         "code": "[P]",
@@ -527,7 +527,7 @@
       {
         "compound": "Guanethidine",
         "compound_abbr": null,
-        "effect": "Decreased uptake of guanethidine into sites ofaction",
+        "effect": "Decreased uptake of guanethidine into sites of action",
         "code": "[P]",
         "probability": 0.7
       },
