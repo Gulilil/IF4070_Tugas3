@@ -14,6 +14,12 @@
     (slot action2)
 )
 
+(deftemplate add-side-effect
+    (slot action1)
+    (slot action2)
+    (slot new-side-effect)
+)
+
 (deffacts initial-facts
     (drug-item (drug-name PYRANTEL-PAMOATE) (action spastic-paralysis) (side-effect nausea))
     (drug-item (drug-name PIPERAZINE) (action flaccid-paralysis) (side-effect breathing-failure))
