@@ -1,0 +1,106 @@
+No,Nama Obat,Mechanism of Action,Effects
+1,Pyrantel-Pamoate,Spastic-Paralysis,Activates nicotinic cholinergic receptors
+2,Piperazine,Flaccid-Paralysis,Prevents acetylcholine actions
+3,Phenoxybenzamine,"Irreversibly blocks α1 and α2,  indirect baroreflex activation",Lowers blood pressure (BP) • heart rate (HR) rises due to baroreflex activation
+4,Phentolamine,Reversibly blocks α1 and α2,"Blocks α-mediated vasoconstriction, lowers BP, increases HR (baroreflex)"
+5,Prazosin,"Block α1, but not α2",Lower BP
+6,Tamsulosin,Tamsulosin is slightly selective for α1A,α1A Blockade may relax prostatic smooth muscles more than vascular smooth muscle
+7,Yohimbine,Blocks α2• elicits increased central sympathetic activity •increased norepinephrine release,Raises BP and HR
+8,Labetalol,β > α1 block,Lowers BP with limited HR increase
+9,Propranolol,Block β1 and β2,Lower HR and BP • reduce renin
+10,Metoprolol,Block β1 > β2,Lower HR and BP • reduce renin • may be safer in asthma
+11,Pindolol,"β1, β2, with intrinsic sympathomimetic (partial agonist) effect",Lowers BP • modestly lower HR
+12,Carvedilol,β > α1 block,
+13,Esmolol,β1 > β2,Very brief cardiac β blockade
+14,Metyrosine,"Blocks tyrosine hydroxylase • reduces synthesis of dopamine, norepinephrine, and epinephrine",Lowers BP • in central nervous system may elicit extrapyramidal effects (due to low dopamine)
+15,Albuterol,Selective β2 agonist,"Prompt, efficacious bronchodilation"
+16,Epinephrine,Nonselective α and β agonist,Bronchodilation plus all other sympathomimetic effects on cardiovascular and other organ systems
+17,Isoproterenol,β1 and β2 agonist,Bronchodilation plus powerful cardiovascular effects
+18,Fluticasone,Alters gene expression,Reduces mediators of inflammation • powerful prophylaxis of exacerbations
+19,Prednisone,Like fluticasone,Like fluticasone
+20,"Cromolyn, nedocromil",Alter function of delayed chloride channels,Prevents acute bronchospasm
+21,Theophylline,"Uncertain, phosphodiesterase, adenosine receptor
+antagonist
+inhibition","Bronchodilation, cardiac stimulation, increased skeletal muscle strength (diaphragm)"
+22,"Montelukast, zafirlukas",Block leukotriene D4 receptors,Block airway response to exercise and antigen challenge
+23,Omalizumab, Humanized IgE antibody reduces circulating IgE,Reduces frequency of asthma exacerbations
+24,Naloxone,Nonselective antagonist of opioid receptors,Reverses the acute effects of opioids; can precipitate severe abstinence syndrome
+25,Naltrexone,Antagonist of opioid receptors,Blocks effects of illicit opioids
+26,Methadone,Slow-acting agonist of μ-opioid receptor,Acute effects similar to morphine (see text)
+27,Buprenorphine,Partial agonist at μ-opioid receptors,Attenuates acute effects of morphine
+28,Varenicline,Partial agonist of nicotinic acetylcholine receptor of the α4β2-type,Occludes “rewarding” effects of smoking • heightened awareness of colors
+29,Oxazepam,"Positive modulators of the GABAA receptors, increase frequency of channel opening","Enhances GABAergic synaptic transmission; attenuates withdrawal symptoms (tremor, hallucinations, anxiety) in alcoholics • prevents withdrawal seizures"
+30,Acamprosate,Antagonist of NMDA glutamate receptors,May interfere with forms of synaptic plasticity that depend on NMDA receptors
+31,Rimonabant,CB1 receptor inverse agonist,Decreases neurotransmitter release at GABAergic and glutamatergic synapses
+32,Atorvastatin,Inhibit HMG-CoA reductase,Reduce cholesterol synthesis and up-regulate low-density lipoprotein (LDL) receptors on hepatocytes • modest reduction in triglycerides
+33,Fenofibrate,Peroxisome proliferator-activated receptor-alpha (PPAR-α) agonists,Decrease secretion of very-low-density lipoproteins (VLDL) • increase lipoprotein lipase activity • increase high-density lipoproteins (HDL)
+34,Colestipol,Binds bile acids in gut • prevents reabsorption • increases cholesterol catabolism • up-regulates LDL receptors,Decreases LDL
+35,Ezetimibe,Blocks sterol transporter NPC1L1 in intestine brush border,Inhibits reabsorption of cholesterol excreted in bile • decreases LDL and phytosterols
+36,NIACIN,Decreases catabolism of apo AI • reduces VLDL secretion from liver,"Increases HDL • decreases lipoprotein(a) [Lp(a)], LDL, and triglycerides"
+37,Cholecalciferol,Regulate gene transcription via the vitamin D receptor,"Stimulate intestinal calcium absorption, bone resorption, renal calcium and phosphate reabsorption • decrease parathyroid hormone (PTH) • promote innate immunity • inhibit adaptive immunity"
+38,Alendronate,Suppress the activity of osteoclasts in part via inhibition of farnesyl pyrophosphate synthesis,Inhibit bone resorption and secondarily bone formation
+39,Teriparatide,These hormones act via their cognate G proteincoupled receptors their cognate G proteincoupled receptors,Teriparatide stimulates bone turnover • calcitonin suppresses bone resorption
+40,Raloxifene,Interacts selectively with estrogen receptors,Inhibits bone resorption without stimulating breast or endometrial hyperplasia
+41,Denosumab,Monoclonal antibody • binds to RANKL and prevents it from stimulating osteoclast differentiation and function,Blocks bone resorption
+42,Cinacalcet, Activates the calciumsensing receptor,Inhibits PTH secretion
+43,Calcium,Multiple physiologic actions through regulation of multiple enzymatic pathways,Strontium suppresses bone resorption and increases bone formation • calcium and phosphate required for bone mineralization
+44,Penicillin G,Prevents bacterial cell wall synthesis by binding to and inhibiting cell wall transpeptidases,
+45,Cefazolin,Prevents bacterial cell wall synthesis by binding to and inhibiting cell wall transpeptidases,
+46,Imipenem-cilastatin,Prevents bacterial cell wall synthesis by binding to and inhibiting cell wall transpeptidases,
+47,Aztreonam,Prevents bacterial cell wall synthesis by binding to and inhibiting cell wall transpeptidases,
+48,Vancomycin,Inhibits cell wall synthesis by binding to the D-Ala-D-Ala terminus of nascent peptidoglycan,
+49,Daptomycin,"Binds to cell membrane, causing depolarization and rapid cell death",
+50,Tetracycline,Prevents bacterial protein synthesis by binding to the 30S ribosomal subunit,
+51,Erythromycin,Prevents bacterial protein synthesis by binding to the 50S ribosomal subunit,
+52,Clindamycin,Prevents bacterial protein synthesis by binding to the 50S ribosomal subunit,
+53,Quinupristin-dalfopristin,Prevents bacterial protein synthesis by binding to the 50S ribosomal subunit,
+54,CHLORAMPHENICOL,Prevents bacterial protein synthesis by binding to the 50S ribosomal subunit,
+55,Linezolid,Prevents bacterial protein synthesis by binding to the 23S ribosomal RNA of 50S subunit,
+56,Gentamicin,Prevents bacterial protein synthesis by binding to the 30S ribosomal subunit,
+57,Ethanol,"Multiple effects on neurotransmitter receptors, ion channels, and signaling pathways",
+58,Benzodiazepines,BDZ receptor agonists that facilitate GABA-mediated activation of GABAA receptors,
+59,Thiamine (vitamin B1),Essential vitamin required for synthesis of the coenzyme thiamine pyrophosphate,
+60,Naltrexone,Nonselective competitive antagonist of opioid receptors,
+61,Acamprosate,Poorly understood NMDA receptor antagonist and GABAA agonist effects,
+62,Disulfiram,"Inhibits aldehyde dehydrogenase, resulting in aldehyde accumulation during ethanol ingestion",
+63,Fomepizole,"Inhibits alcohol dehydrogenase, prevents conversion of methanol and ethylene glycol to toxic metabolites",
+64,Lidocaine,Blockade of sodium channels,
+65,Bupivacaine,Same as lidocaine,
+66,Chloroprocaine,Like lidocaine,
+67,Cocaine,Same as above • also has sympathomimetic effects,
+68,Succinylcholine,"Agonist at nicotinic acetylcholine (ACh) receptors, especially at neuromuscular junctions • depolarizes • may stimulate ganglionic nicotinic ACh and cardiac muscarinic ACh receptors",
+69,d-Tubocurarine,"Competitive antagonist at nACh receptors, especially at neuromuscular junctions",
+70,Baclofen,"GABAB agonist, facilitates spinal inhibition of motor neurons",
+71,Tizanidine,α2-Adrenoceptor agonist in the spinal cord,
+72,Diazepam,Facilitates GABAergic transmission in central nervous system,
+73,Cyclobenzaprine,Poorly understood inhibition of muscle stretch reflex in spinal cord,
+74,Dantrolene,Blocks RyR1 Ca2+ -release channels in the sarcoplasmic reticulum of skeletal muscle,
+75,Atorvastatin,Inhibit HMG-CoA reductase,
+76,Fenofibrate,Peroxisome proliferator-activated receptor-alpha (PPAR-α) agonists,
+77,Colestipol,Binds bile acids in gut • prevents reabsorption • increases cholesterol catabolism • up-regulates LDL receptors,
+78,Ezetimibe,Blocks sterol transporter NPC1L1 in intestine brush border,
+79,NIACIN,Decreases catabolism of apo AI • reduces VLDL secretion from liver,
+80,Somatropin,Recombinant form of human GH • acts through GH receptors to increase production of IGF-,
+81,Mecasermin,Recombinant form of IGF-I that stimulates IGF-I receptors,
+82,Octreotide,Agonist at somatostatin receptors,
+83,Pegvisomant,Blocks GH receptors,
+84,Follitropin alfa,Activates FSH receptors,
+85,Human chorionic gonadotropin (hCG),Agonist at LH receptors,
+86,Leuprolide,Agonist of GnRH receptors,
+87,Ganirelix,Blocks GnRH receptors,
+88,Bromocriptine,Activates dopamine D2 receptors,
+89,OXYTOCIN,Activates oxytocin receptors,
+90,Atosiban,Blocks oxytocin receptors,
+91,Desmopressin,Relatively selective vasopressin V2 receptor agonist,
+92,Conivaptan,Conivaptan,
+93,Cholecalciferol,Regulate gene transcription via the vitamin D receptor,
+94,Alendronate,Suppress the activity of osteoclasts in part via inhibition of farnesyl pyrophosphate synthesis,
+95,Teriparatide,These hormones act via their cognate G proteincoupled receptors,
+96,Raloxifene,Interacts selectively with estrogen receptors,
+97,Denosumab,Monoclonal antibody • binds to RANKL and prevents it from stimulating osteoclast differentiation and function,
+98,Cinacalcet,Activates the calciumsensing receptor,
+99,Calcium,Multiple physiologic actions through regulation of multiple enzymatic pathways,
+100,Succinylcholine,"Agonist at nicotinic acetylcholine (ACh) receptors, especially at neuromuscular junctions • depolarizes • may stimulate ganglionic nicotinic ACh and cardiac muscarinic ACh receptors",
+101,d-Tubocurarine,"Competitive antagonist at nACh receptors, especially at neuromuscular junctions",
+102,Ramelteon,Activates MT1 and MT2 receptors in suprachiasmatic nuclei in the CNS,
+103,Buspirone,Mechanism uncertain: Partial agonist at 5-HT receptors but also affinity for D2 receptors,
