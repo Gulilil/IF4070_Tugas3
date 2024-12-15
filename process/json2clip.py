@@ -60,7 +60,7 @@ for index, row in df.iterrows():
       name = row['Nama Obat'].title()
       action = adjust_string_val(row['Mechanism of Action'])
       effect = adjust_string_val(row['Effects'])
-      clips_facts.append(f"\t(drug-item (drug-name {name}) (action \"{action}\") (side-effect \"{effect}\"))")
+      clips_facts.append(f"\t(drug-item (drug-name \"{name}\") (action \"{action}\") (side-effect \"{effect}\"))")
 clips_facts.append(")")
     
 
