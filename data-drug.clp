@@ -71,7 +71,7 @@
 	(drug-item (drug-name "Calcium") (action "Multiple physiologic actions through regulation of multiple enzymatic pathways") (side-effect "Strontium suppresses bone resorption and increases bone formation and calcium and phosphate required for bone mineralization"))
 	(action-exception (action1 "Irreversibly blocks Alpha-1 and Alpha-2,  indirect baroreflex activation") (action2 "Reversibly blocks Alpha-1 and Alpha-2"))
 	(action-exception (action1 "Activates oxytocin receptors") (action2 "Blocks oxytocin receptors"))
-	(action-exception (action1 "Recombinant form of human GH • acts through GH receptors to increase production of IGF-") ("Blocks GH receptors"))
+	(action-exception (action1 "Recombinant form of human GH acts through GH receptors to increase production of IGF-") (action2 "Blocks GH receptors"))
 	(action-exception (action1 "Flaccid-Paralysis") (action2 "Spastic-Paralysis"))
 	(action-exception (action1 "Competitively blocks Beta-1 receptors") (action2 "Beta-1 and Beta-2 agonist"))
 	(action-exception (action1 "Antagonist of vasopressin V1a and V2 receptors") (action2 "Relatively selective vasopressin V2 receptor agonist"))
