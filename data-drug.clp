@@ -15,6 +15,11 @@
     (slot action2)
 )
 
+(deftemplate add-action
+	(slot action1)
+	(slot action2)
+)
+
 (deftemplate add-side-effect
     (slot action1)
     (slot action2)
@@ -41,16 +46,14 @@
 	(drug-item (drug-name "Fluticasone") (action "Alters gene expression") (side-effect "Reduces mediators of inflammation and powerful prophylaxis of exacerbations"))
 	(drug-item (drug-name "Prednisone") (action "Like fluticasone") (side-effect "Like fluticasone"))
 	(drug-item (drug-name "Cromolyn, Nedocromil") (action "Alter function of delayed chloride channels") (side-effect "Prevents acute bronchospasm"))
-	(drug-item (drug-name "Theophylline") (action "Uncertain, phosphodiesterase, adenosine receptor
-antagonist
-inhibition") (side-effect "Bronchodilation, cardiac stimulation, increased skeletal muscle strength (diaphragm)"))
+	(drug-item (drug-name "Theophylline") (action "Uncertain, phosphodiesterase, adenosine receptor antagonist inhibition") (side-effect "Bronchodilation, cardiac stimulation, increased skeletal muscle strength (diaphragm)"))
 	(drug-item (drug-name "Montelukast, Zafirlukas") (action "Block leukotriene D4 receptors") (side-effect "Block airway response to exercise and antigen challenge"))
 	(drug-item (drug-name "Omalizumab") (action "Humanized IgE antibody reduces circulating IgE") (side-effect "Reduces frequency of asthma exacerbations"))
 	(drug-item (drug-name "Naloxone") (action "Nonselective antagonist of opioid receptors") (side-effect "Reverses the acute effects of opioids; can precipitate severe abstinence syndrome"))
 	(drug-item (drug-name "Naltrexone") (action "Antagonist of opioid receptors") (side-effect "Blocks effects of illicit opioids"))
 	(drug-item (drug-name "Methadone") (action "Slow-acting agonist of Mu--opioid receptor") (side-effect "Acute effects similar to morphine (see text)"))
 	(drug-item (drug-name "Buprenorphine") (action "Partial agonist at Mu--opioid receptors") (side-effect "Attenuates acute effects of morphine"))
-	(drug-item (drug-name "Varenicline") (action "Partial agonist of nicotinic acetylcholine receptor of the Alpha-4Beta-2-type") (side-effect "Occludes “rewarding” effects of smoking and heightened awareness of colors"))
+	(drug-item (drug-name "Varenicline") (action "Partial agonist of nicotinic acetylcholine receptor of the Alpha-4Beta-2-type") (side-effect "Occludes ï¿½rewardingï¿½ effects of smoking and heightened awareness of colors"))
 	(drug-item (drug-name "Oxazepam") (action "Positive modulators of the GABAA receptors, increase frequency of channel opening") (side-effect "Enhances GABAergic synaptic transmission; attenuates withdrawal symptoms (tremor, hallucinations, anxiety) in alcoholics and prevents withdrawal seizures"))
 	(drug-item (drug-name "Acamprosate") (action "Antagonist of NMDA glutamate receptors") (side-effect "May interfere with forms of synaptic plasticity that depend on NMDA receptors"))
 	(drug-item (drug-name "Rimonabant") (action "CB1 receptor inverse agonist") (side-effect "Decreases neurotransmitter release at GABAergic and glutamatergic synapses"))
@@ -66,4 +69,14 @@ inhibition") (side-effect "Bronchodilation, cardiac stimulation, increased skele
 	(drug-item (drug-name "Denosumab") (action "Monoclonal antibody and binds to RANKL and prevents it from stimulating osteoclast differentiation and function") (side-effect "Blocks bone resorption"))
 	(drug-item (drug-name "Cinacalcet") (action "Activates the calciumsensing receptor") (side-effect "Inhibits PTH secretion"))
 	(drug-item (drug-name "Calcium") (action "Multiple physiologic actions through regulation of multiple enzymatic pathways") (side-effect "Strontium suppresses bone resorption and increases bone formation and calcium and phosphate required for bone mineralization"))
+	(action-exception (action1 "Irreversibly blocks Alpha-1 and Alpha-2,  indirect baroreflex activation") (action2 "Reversibly blocks Alpha-1 and Alpha-2"))
+	(action-exception (action1 "Activates oxytocin receptors") (action2 "Blocks oxytocin receptors"))
+	(action-exception (action1 "Recombinant form of human GH â€¢ acts through GH receptors to increase production of IGF-") ("Blocks GH receptors"))
+	(action-exception (action1 "Flaccid-Paralysis") (action2 "Spastic-Paralysis"))
+	(action-exception (action1 "Competitively blocks Beta-1 receptors") (action2 "Beta-1 and Beta-2 agonist"))
+	(action-exception (action1 "Antagonist of vasopressin V1a and V2 receptors") (action2 "Relatively selective vasopressin V2 receptor agonist"))
+	(add-side-effect (action1 "Alpha-adrenoceptorâ€“blocking action") (action2 "produce pharmacodynamic") (new-side-effect "Addiction"))
+	(add-side-effect (action1 "quinidine-like") (action2 "produce pharmacodynamic") (new-side-effect "Addiction"))
+	(add-side-effect (action1 "block the gamma-carboxylation") (action2 "augment the hypoprothrombinemia") (new-side-effect "inhibit platelet function and may induce peptic ulcer disease"))
+	(add-side-effect (action1 "Blockade of sodium channels") (action2 "produce pharmacodynamic") (new-side-effect "torsades de pointes"))
 )

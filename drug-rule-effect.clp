@@ -33,11 +33,21 @@
     (save-facts "factsfile.clp")
 )
 
-(defrule no-effect
+(defrule no-effect-left
     (user-input (first-drug ?drug1) (second-drug ?drug2))
     (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1))
     (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2))
     (action-exception (action1 ?action1) (action2 ?action2))
+    =>
+    (assert (no-side-effect)) 
+    (printout t "No Side Effect" crlf)
+)
+
+(defrule no-effect-right
+    (user-input (first-drug ?drug1) (second-drug ?drug2))
+    (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1))
+    (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2))
+    (action-exception (action1 ?action2) (action2 ?action1))
     =>
     (assert (no-side-effect)) 
     (printout t "No Side Effect" crlf)
