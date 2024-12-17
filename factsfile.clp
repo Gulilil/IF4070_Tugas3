@@ -1,0 +1,6 @@
+(drug-item (drug-name PYRANTEL-PAMOATE) (action spastic-paralysis) (side-effect nausea))
+(drug-item (drug-name PIPERAZINE) (action flaccid-paralysis) (side-effect breathing-failure))
+(drug-item (drug-name FLUCYTOSINE) (action interfere-dna-rna) (side-effect toxicity-in-host))
+(action-exception (action1 flaccid-paralysis) (action2 spastic-paralysis))
+(user-input (first-drug ASPIRIN) (second-drug xyz))
+(drug-item (drug-name ASPIRIN) (action tes-1) (side-effect tes-2))
