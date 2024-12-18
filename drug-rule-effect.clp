@@ -38,26 +38,32 @@
     (user-input (first-drug ?drug1) (second-drug ?drug2))
     (not (drug-item (drug-name ?drug1)))
     =>
-    (printout t "Drug " ?drug1 " not found. Please provide its action: " crlf)
-    (bind ?action1 (read))
-    (printout t "Please provide the side-effect for drug " ?drug1 ": " crlf)
-    (bind ?sideeffect1 (read))
-    (assert (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1)))
-    (printout t "Drug " ?drug1 " and its side-effect successfully added!" crlf)
-    (save-facts "factsfile.clp")
+    (printout t "Drug " ?drug1 " not found. Do you want to add it? (yes/no): " crlf)
+    (bind ?response (read))
+    (if (eq ?response yes) then
+        (printout t "Please provide the action for " ?drug1 ": " crlf)
+        (bind ?action1 (read))
+        (printout t "Please provide the side-effect for drug " ?drug1 ": " crlf)
+        (bind ?sideeffect1 (read))
+        (assert (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1)))
+        (printout t "Drug " ?drug1 " added successfully!" crlf)
+        (save-facts "factsfile.clp"))
 )
 
 (defrule add-drug2
     (user-input (first-drug ?drug1) (second-drug ?drug2))
     (not (drug-item (drug-name ?drug2))) 
     =>
-    (printout t "Drug " ?drug2 " not found. Please provide its action: " crlf)
-    (bind ?action2 (read))
-    (printout t "Please provide the side-effect for drug " ?drug2 ": " crlf)
-    (bind ?sideeffect2 (read))
-    (assert (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2)))
-    (printout t "Drug " ?drug2 " and its side-effect successfully added!" crlf)
-    (save-facts "factsfile.clp")
+    (printout t "Drug " ?drug2 " not found. Do you want to add it? (yes/no): " crlf)
+    (bind ?response (read))
+    (if (eq ?response yes) then
+        (printout t "Please provide the action for " ?drug2 ": " crlf)
+        (bind ?action2 (read))
+        (printout t "Please provide the side-effect for drug " ?drug2 ": " crlf)
+        (bind ?sideeffect2 (read))
+        (assert (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2)))
+        (printout t "Drug " ?drug2 " added successfully!" crlf)
+        (save-facts "factsfile.clp"))
 )
 
 (defrule no-effect-left
