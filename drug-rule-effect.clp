@@ -53,13 +53,37 @@
     (printout t "No Side Effect" crlf)
 )
 
-(defrule side-effect
+(defrule side-effect-1
     (not (no-side-effect))
     (user-input (first-drug ?drug1) (second-drug ?drug2))
     (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1))
     (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2))
     =>
     (bind ?sideffects (create$ ?sideeffect1 ?sideeffect2))
+    (printout t "Side Effects: " ?sideffects crlf)
+    (printout t "Side Effects for " ?drug1 " and " ?drug2 ": " ?sideffects crlf)
+)
+
+(defrule side-effect-2-1
+    (not (no-side-effect))
+    (user-input (first-drug ?drug1) (second-drug ?drug2))
+    (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1))
+    (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2))
+    (add-side-effect (action1 ?action1) (action2 ?action2) (new-side-effect ?sideeffect3))
+    =>
+    (bind ?sideffects (create$ ?sideeffect1 ?sideeffect2 ?sideeffect3))
+    (printout t "Side Effects: " ?sideffects crlf)
+    (printout t "Side Effects for " ?drug1 " and " ?drug2 ": " ?sideffects crlf)
+)
+
+(defrule side-effect-2-2
+    (not (no-side-effect))
+    (user-input (first-drug ?drug1) (second-drug ?drug2))
+    (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1))
+    (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2))
+    (add-side-effect (action1 ?action2) (action2 ?action1) (new-side-effect ?sideeffect3))
+    =>
+    (bind ?sideffects (create$ ?sideeffect1 ?sideeffect2 ?sideeffect3))
     (printout t "Side Effects: " ?sideffects crlf)
     (printout t "Side Effects for " ?drug1 " and " ?drug2 ": " ?sideffects crlf)
 )
