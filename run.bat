@@ -1,4 +1,4 @@
-(load "data-drug.clp")
 (load "drug-rule-effect.clp")
+(load "data-drug.clp")
 (reset)
 (run)

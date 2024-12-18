@@ -1,3 +1,30 @@
+(deftemplate drug-item
+	(slot drug-name)
+	(slot action)
+	(slot side-effect)
+)
+
+(deftemplate user-input
+   (slot first-drug)
+   (slot second-drug)
+)
+
+(deftemplate action-exception
+    (slot action1)
+    (slot action2)
+)
+
+(deftemplate add-action
+	(slot action1)
+	(slot action2)
+)
+
+(deftemplate add-side-effect
+    (slot action1)
+    (slot action2)
+    (slot new-side-effect)
+)                                
+
 (defrule ask-input
     =>
     (printout t "Please insert drug 1: " crlf)

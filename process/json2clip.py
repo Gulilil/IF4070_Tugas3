@@ -6,29 +6,29 @@ data_path = os.path.join(DATA_MEDS_DIR, 'data.csv')
 
 # Save item
 clips_facts = []
-clips_facts.append("""
-(deftemplate drug-item
-	(slot drug-name)
-	(slot action)
-	(slot side-effect)
-)
+# clips_facts.append("""
+# (deftemplate drug-item
+# 	(slot drug-name)
+# 	(slot action)
+# 	(slot side-effect)
+# )
 
-(deftemplate user-input
-   (slot first-drug)
-   (slot second-drug)
-)
+# (deftemplate user-input
+#    (slot first-drug)
+#    (slot second-drug)
+# )
 
-(deftemplate action-exception
-    (slot action1)
-    (slot action2)
-)
+# (deftemplate action-exception
+#     (slot action1)
+#     (slot action2)
+# )
 
-(deftemplate add-side-effect
-    (slot action1)
-    (slot action2)
-    (slot new-side-effect)
-)                                
-""")
+# (deftemplate add-side-effect
+#     (slot action1)
+#     (slot action2)
+#     (slot new-side-effect)
+# )                                
+# """)
 
 
 # Load CSV data
@@ -60,7 +60,7 @@ for index, row in df.iterrows():
       name = row['Nama Obat'].title()
       action = adjust_string_val(row['Mechanism of Action'])
       effect = adjust_string_val(row['Effects'])
-      clips_facts.append(f"\t(drug-item (drug-name \"{name}\") (action \"{action}\") (side-effect \"{effect}\"))")
+      clips_facts.append(f"\t(drug-item (drug-name {name}) (action \"{action}\") (side-effect \"{effect}\"))")
 clips_facts.append(")")
     
 

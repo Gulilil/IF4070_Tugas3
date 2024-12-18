@@ -1,31 +1,4 @@
 
-(deftemplate drug-item
-	(slot drug-name)
-	(slot action)
-	(slot side-effect)
-)
-
-(deftemplate user-input
-   (slot first-drug)
-   (slot second-drug)
-)
-
-(deftemplate action-exception
-    (slot action1)
-    (slot action2)
-)
-
-(deftemplate add-action
-	(slot action1)
-	(slot action2)
-)
-
-(deftemplate add-side-effect
-    (slot action1)
-    (slot action2)
-    (slot new-side-effect)
-)                                
-
 (deffacts initial-facts
 	(drug-item (drug-name "Pyrantel-Pamoate") (action "Spastic-Paralysis") (side-effect "Activates nicotinic cholinergic receptors"))
 	(drug-item (drug-name "Piperazine") (action "Flaccid-Paralysis") (side-effect "Prevents acetylcholine actions"))
