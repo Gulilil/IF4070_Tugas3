@@ -23,7 +23,18 @@
     (slot action1)
     (slot action2)
     (slot new-side-effect)
-)                                
+)
+
+(deftemplate new-drug-flag
+    (slot status (default FALSE))
+)
+
+(defrule load-data-drug
+    =>
+    (printout t "Loading factsfile.clp..." crlf)
+    (load-facts "factsfile.clp")
+    (printout t "Data loaded successfully." crlf)
+)
 
 (defrule ask-input
     =>
@@ -46,8 +57,8 @@
         (printout t "Please provide the side-effect for drug " ?drug1 ": " crlf)
         (bind ?sideeffect1 (read))
         (assert (drug-item (drug-name ?drug1) (action ?action1) (side-effect ?sideeffect1)))
-        (printout t "Drug " ?drug1 " added successfully!" crlf)
-        (save-facts "factsfile.clp"))
+        (printout t "Drug " ?drug1 " added successfully!" crlf))
+        (assert (new-drug-flag (status TRUE)))
 )
 
 (defrule add-drug2
@@ -62,8 +73,8 @@
         (printout t "Please provide the side-effect for drug " ?drug2 ": " crlf)
         (bind ?sideeffect2 (read))
         (assert (drug-item (drug-name ?drug2) (action ?action2) (side-effect ?sideeffect2)))
-        (printout t "Drug " ?drug2 " added successfully!" crlf)
-        (save-facts "factsfile.clp"))
+        (printout t "Drug " ?drug2 " added successfully!" crlf))
+        (assert (new-drug-flag (status TRUE)))
 )
 
 (defrule no-effect-left
@@ -130,4 +141,19 @@
     (printout t "Side Effects: " ?sideffects crlf)
     (printout t "Side Effects for " ?drug1 " and " ?drug2 ": " ?sideffects crlf)
     (assert (done))
+)
+
+(defrule clear-user-input
+    ?fact <- (user-input (first-drug ?drug1) (second-drug ?drug2))
+    ?done <- (done)
+    =>
+    (retract ?fact)
+    (retract ?done)
+)
+
+(defrule save-facts-after-clear
+    (not (user-input))
+    (new-drug-flag (status TRUE))
+    =>
+    (save-facts "factsfile.clp")
 )
